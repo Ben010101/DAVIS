@@ -1,9 +1,9 @@
-# Mercure
+# Soleil
 Le Soleil est l’étoile du Système solaire.
 
 ![Icone du soleil](soleil.jpg)
 
-Icone créée par [monkik](https://www.flaticon.com/authors/monkik) trouvée sur [flaticon](https://fr.wikipedia.org/wiki/Soleil).
+ trouvée sur (https://fr.wikipedia.org/wiki/Soleil).
 
 ## Caractéristiques
 
