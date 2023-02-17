@@ -1,3 +1,4 @@
+
 # Mercure
 
 Mercure est la planète la plus proche du soleil.
@@ -15,3 +16,5 @@ Icone créée par [monkik](https://www.flaticon.com/authors/monkik) trouvée sur
   - Périhélie : 4.6 x 10<sup>7</sup> km
   - Demi-grand axe : 5.8 x 10<sup>7</sup> km
 - Symbole : &#x263F;
+
+ça tourne à 3908398 rotations par mois (rapidement)

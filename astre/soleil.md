@@ -10,3 +10,7 @@ Le Soleil est l’étoile du Système solaire.
 - Masse : 1.989 x 10<sup>30</sup> kg
 - Diamètre : 1 392 684 km
 - Symbole : &#9788;
+
+## rotation 
+
+ça tourne à toute balle 
